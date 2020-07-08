@@ -24,3 +24,4 @@ There are different ways and aglorithms that can help predict an outcome (a turn
 - Cluster Analysis 
 - AB Testing 
 - Time series 
+
